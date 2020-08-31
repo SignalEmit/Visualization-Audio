@@ -1,0 +1,61 @@
+/**
+* Created by fenghui on 2016/10/17.
+*/
+
+
+/* basic */
+
+@charset "UTF-8";
+body,
+div,
+nav,
+aside,
+dl,
+dd,
+dt,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+pre,
+form,
+ol,
+ul,
+li,
+select,
+fieldset,
+input,
+textarea,
+caption {
+    margin: 0;
+    padding: 0;
+}
+
+address,
+cite,
+code,
+dfn,
+em,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+var,
+b {
+    font-weight: normal;
+    font-style: normal;
+}
+
+html,
+body {
+    height: 100%;
+    overflow: hidden;
+    font-size:2px
+    /* width: 1366px; */
+}
